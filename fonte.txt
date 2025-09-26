@@ -1,0 +1,10 @@
+Fonte dos Dados: Dataset de Filmes
+
+Dataset criado manualmente com informações de filmes populares.
+Contém dados como: ID, Nome, Ano, Categoria e Nota dos filmes.
+
+Total de registros: 50 filmes
+Formato: CSV
+Data de criação: 2024
+
+Informações coletadas de fontes públicas como IMDB e outras bases de dados de filmes.

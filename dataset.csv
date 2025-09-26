@@ -1,0 +1,51 @@
+id,nome,ano,categoria,nota
+1,Avatar,2009,Ficção,7.8
+2,Titanic,1997,Romance,7.9
+3,Vingadores,2012,Ação,8.0
+4,Harry Potter e a Pedra Filosofal,2001,Aventura,7.6
+5,Interestelar,2014,Ficção,8.6
+6,Matrix,1999,Ficção,8.7
+7,Gladiador,2000,Ação,8.5
+8,O Senhor dos Anéis: A Sociedade do Anel,2001,Aventura,8.8
+9,Jurassic Park,1993,Aventura,8.1
+10,Inception,2010,Ficção,8.8
+11,Capitão América: O Primeiro Vingador,2011,Ação,7.9
+12,Thor,2011,Ação,7.0
+13,Homem de Ferro,2008,Ação,7.9
+14,Black Panther,2018,Ação,7.3
+15,Pantera Negra,2018,Ação,7.3
+16,Guardiões da Galáxia,2014,Ação,8.0
+17,Deadpool,2016,Ação,8.0
+18,Star Wars: Episódio IV - Uma Nova Esperança,1977,Ficção,8.6
+19,Star Wars: Episódio V - O Império Contra-Ataca,1980,Ficção,8.7
+20,Star Wars: Episódio VI - O Retorno de Jedi,1983,Ficção,8.3
+21,O Rei Leão,1994,Animação,8.5
+22,Procurando Nemo,2003,Animação,8.1
+23,Toy Story,1995,Animação,8.3
+24,Shrek,2001,Animação,7.9
+25,Up: Altas Aventuras,2009,Animação,8.2
+26,Os Incríveis,2004,Animação,8.0
+27,Monstros S.A.,2001,Animação,8.0
+28,A Bela e a Fera,1991,Animação,8.0
+29,Aladdin,1992,Animação,8.0
+30,Piratas do Caribe: A Maldição do Pérola Negra,2003,Aventura,8.0
+31,Indiana Jones: Os Caçadores da Arca Perdida,1981,Aventura,8.4
+32,O Hobbit: Uma Jornada Inesperada,2012,Aventura,7.8
+33,O Hobbit: A Desolação de Smaug,2013,Aventura,7.8
+34,O Hobbit: A Batalha dos Cinco Exércitos,2014,Aventura,7.4
+35,Avatar 2,2022,Ficção,7.7
+36,Os Vingadores: Era de Ultron,2015,Ação,7.3
+37,Homem-Aranha: De Volta ao Lar,2017,Ação,7.4
+38,Homem-Aranha: Sem Volta Para Casa,2021,Ação,8.3
+39,Doctor Strange,2016,Ação,7.5
+40,Viúva Negra,2021,Ação,6.8
+41,Doutor Estranho no Multiverso da Loucura,2022,Ação,7.0
+42,Thor: Ragnarok,2017,Ação,7.9
+43,Thor: Amor e Trovão,2022,Ação,6.5
+44,Pantera Negra: Wakanda Forever,2022,Ação,7.1
+45,Capitã Marvel,2019,Ação,6.8
+46,Homem de Ferro 2,2010,Ação,7.0
+47,Homem de Ferro 3,2013,Ação,7.2
+48,O Incrível Hulk,2008,Ação,6.7
+49,Guardiões da Galáxia Vol. 2,2017,Ação,7.6
+50,Os Vingadores,2012,Ação,8.0
