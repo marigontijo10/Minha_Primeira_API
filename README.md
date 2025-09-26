@@ -60,4 +60,5 @@ Minha_Primeira_API/
 │   └── fonte.txt
 ├── main.py
 ├── README.md
+
 └── requirements.txt
